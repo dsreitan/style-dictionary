@@ -1,5 +1,11 @@
 # Changelog
 
+## 5.0.2
+
+### Patch Changes
+
+- 9f84a81: Remove node-sass from create-react-app example, dart-sass is used now usually.
+
 ## 5.0.1
 
 ### Patch Changes
